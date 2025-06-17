@@ -1,9 +1,8 @@
-import java.util.List;
-
 public class Principal {
     public static void main(String[] args) {
 
-        Validaciones.metodoSheldon(10000000);
+        //Inserta el número que quieras en el parámetro,
+        Validaciones.metodoSheldon(20);
 
     }
 }
